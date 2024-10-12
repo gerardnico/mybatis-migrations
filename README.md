@@ -3,7 +3,8 @@
 ## About
 A repository created while learning [Batis Migrations](https://mybatis.org/migrations/index.html)
 
-Steps:
+## Steps
+
 * Run a [docker postgres instance](https://github.com/gerardnico/postgres)
 * Run the `downloadDependencies` [gradle task](build.gradle) or put the PostgresDriver in the [Drivers](drivers) directory
 * Install MyBatis
